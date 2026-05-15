@@ -1,0 +1,31 @@
+#main{
+    border: black 2px solid;
+    height: 50vh;
+    width: 100%;
+}
+
+#chat-input-box{
+    /* border: black 2px solid; */
+    height: 10vh;
+}
+
+#chat-input-box input{
+    height: 100%;
+    width: 90%;
+    font-size: 30px;
+}
+
+#chat-input-box button{
+    height: 100%;
+    width: 5%;
+}
+
+.chatboxclass{
+    background-color: rgb(8, 138, 181);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    height: 30px;
+    width: fit-content;
+    border-radius: 2px;
+    padding: 5px;
+}
